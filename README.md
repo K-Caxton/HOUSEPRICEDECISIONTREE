@@ -29,7 +29,7 @@ The trained model learns patterns from historical housing data and estimates the
 - Scikit-learn
 - Matplotlib
 - Graphviz
-- Streamlit *(Coming Soon)*
+ 
 
 ---
 
