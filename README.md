@@ -86,8 +86,8 @@ Target Variable:
 ---
 
 ## Authors
-**Caxton Kiptoo**
-**Justus Onyango**
+- **Caxton Kiptoo**
+- **Justus Onyango**
 
-Bachelor of Science in Statistics and Data Science
-Strathmore University
+- Bachelor of Science in Statistics and Data Science
+- Strathmore University
