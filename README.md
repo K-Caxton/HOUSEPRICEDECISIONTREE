@@ -87,4 +87,5 @@ Target Variable:
 
 ## Authors
 
-Machine Learning Group Project
+Caxton Kiptoo
+Justus Onyango
