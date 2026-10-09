@@ -87,5 +87,5 @@ Target Variable:
 
 ## Authors
 
-Caxton Kiptoo
-Justus Onyango
+- Caxton Kiptoo
+- Justus Onyango
